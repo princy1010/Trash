@@ -1,0 +1,12 @@
+{
+	"trash": [{
+		"id": "c200",
+		"name": "Paper"
+	}, {
+		"id": "c201",
+		"name": "Cardboard"
+	}, {
+		"id": "c202",
+		"name": "Metal"
+	}]
+}
